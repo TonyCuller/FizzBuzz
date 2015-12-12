@@ -3,8 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        String fizz = "Fizz";
+	    String fizz = "Fizz";
         String buzz = "Buzz";
         String fizzBuzz = "FizzBuzz";
 
